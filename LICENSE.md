@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Giovanna Campos Marchesin
+Copyright (c) 2025 Giovanna Campos Marchesin 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
